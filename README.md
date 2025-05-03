@@ -1,4 +1,4 @@
-# ConsultingFirm 🎯
+# Consulting Firm 🎯
 
 **Version:** 0.1.0 | **Private:** Yes
 
