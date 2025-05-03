@@ -68,17 +68,17 @@ An interactive, visually compelling React-based landing page designed for consul
 
 ## 🧩 Tech & Dependencies
 
-* **React** (v18.2.0) & **react-dom**: Core UI library
-* **CRACO** (v7.1.0): Override CRA settings
-* **three** (v0.152.2) & **@react-three/fiber** (v8.18.0): 3D rendering
-* **framer-motion** (v6.3.15) & **framer-motion-3d** (v12.4.13): Smooth animations
-* **@emailjs/browser** (v3.6.2) & **emailjs** (v4.0.0): Browser-based email delivery
-* **number-counter** (v1.0.3): Animated count-ups
-* **react-icons** (v5.5.0): SVG iconography
-* **react-scroll** (v1.8.7): Smooth scroll behavior
-* **react-onclickoutside** (v6.12.2): Detect outside clicks
-* **react-use-measure** (v2.1.7): Element size observation
-* **web-vitals** (v2.1.4): Performance tracking
+* **React** & **react-dom**: Core UI library
+* **CRACO** : Override CRA settings
+* **three**  & **@react-three/fiber** : 3D rendering
+* **framer-motion**  & **framer-motion-3d** : Smooth animations
+* **@emailjs/browser**  & **emailjs**: Browser-based email delivery
+* **number-counter** : Animated count-ups
+* **react-icons** : SVG iconography
+* **react-scroll** : Smooth scroll behavior
+* **react-onclickoutside** : Detect outside clicks
+* **react-use-measure**: Element size observation
+* **web-vitals** : Performance tracking
 * **Testing Tools:** @testing-library/react, jest-dom, user-event
 
 
